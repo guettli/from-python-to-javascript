@@ -12,7 +12,7 @@ During the last days a looked at the [Guide of the main concepts of React](https
 
 The StackoverFlow TagTrend makes it obvious. JQuery is dead and React is the leading JavaScript Library:
 
-<img src="react-angular-vue-jquery-2020.png" width="300">
+<img src="react-angular-vue-jquery-2020.png" width="450">
 
 Source: [React, Angular, Vue, Jquery TagTrend](http://sotagtrends.com/?tags=reactjs+angular+vue.js)
 

@@ -41,7 +41,7 @@ Maybe one small thing which made me love Python is the fact that writing `{` is 
 
 ## Why I like JavaScript
 
-Some languages like Perl, PHP or Shell want you to prefix you variables with `$`. Example: `echo "Your home directory: $HOME"`. This is an ugly mix of strings and code. 
+Some languages like Perl, PHP or Shell want you to prefix you variables with `$`. 
 
 ## Why I like React
 

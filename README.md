@@ -39,4 +39,11 @@ just need to search for `def foo` with your favorite editor or `grep`.
 Maybe one small thing which made me love Python is the fact that writing `{` is slightly annoying. On german keyboards you need to hold the `AltGr` key and then press `7`. Most languages (C, C++, Java, JavaScript,...) use this character for blocks And in Python you hardly need this character since blocks get defined by indentation. 
 
 
+## Why I like JavaScript
+
+Some languages like Perl, PHP or Shell want you to prefix you variables with `$`. Example: `echo "Your home directory: $HOME"`. This is an ugly mix of strings and code. 
+
+## Why I like React
+
+String variables in views are escaped automatically. See [React is XSS protected?](https://stackoverflow.com/questions/33644499/what-does-it-mean-when-they-say-react-is-xss-protected)
 
